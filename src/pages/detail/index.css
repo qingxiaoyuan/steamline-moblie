@@ -1,0 +1,10 @@
+.detail-task {
+  padding: 14px 28px;
+}
+
+.detail-card {
+  background-color: #fff;
+  border-radius: 16px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
